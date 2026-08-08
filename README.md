@@ -20,6 +20,8 @@ Typecho on Vercel 是一个让你能够在 Vercel 平台上零成本部署 Typec
 > 在 Vercel 中导入该仓库
 > 拉取源码后请及时将仓库设为私有，以防敏感信息泄露
 
+<img width="1919" height="956" alt="image" src="https://github.com/user-attachments/assets/cc061c1d-36ce-4835-8e29-39bc1d2f3d8c" />
+
 ### 2.创建数据库
 在创建好的vercel项目中，选择`Storage - Create Database - Neon`，然后一直下一步，全部默认，最后连接将项目连接数据库
 💡 Neon 是 Vercel 官方推荐的 PostgreSQL 数据库服务，提供免费额度，非常适合本项目。
