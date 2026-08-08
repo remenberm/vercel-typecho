@@ -39,7 +39,7 @@ Typecho on Vercel 是一个让你能够在 Vercel 平台上零成本部署 Typec
 访问 你的域名/install.php，按照安装向导一路下一步即可-1。最后为网站设置后台用户名和密码，安装完成！🎉
 
 ## 5.怎么安装主题和插件
-把插件或主题文件复制到usr/plugins或usr/themes目录下
+把插件或主题文件上传到usr/plugins以及usr/themes目录下
 
 ## 注意
 Vercel 的生产环境是基于无服务器 (Serverless) 架构的，其文件系统本质上是只读的（Read-Only File System）。使用过程中部分插件会出现文件权限问题，请自行测试。
