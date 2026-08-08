@@ -33,6 +33,8 @@ Typecho on Vercel 是一个让你能够在 Vercel 平台上零成本部署 Typec
 进入 Vercel 项目面板的 Deployments → Create Deployment，重新部署一次以使数据库配置生效
 进入`Deployments - Create Deployment`
 
+<img width="1919" height="954" alt="image" src="https://github.com/user-attachments/assets/db3f23a7-9371-4343-a7a0-d63b50045267" />
+
 ### 4.开始安装
 访问 你的域名/install.php，按照安装向导一路下一步即可-1。最后为网站设置后台用户名和密码，安装完成！🎉
 
