@@ -26,8 +26,7 @@ Typecho on Vercel 是一个让你能够在 Vercel 平台上零成本部署 Typec
 在创建好的vercel项目中，选择`Storage - Create Database - Prisma Postgres`，然后一直下一步，全部默认，最后连接将项目连接数据库
 💡 Neon 是 Vercel 官方推荐的 PostgreSQL 数据库服务，提供免费额度，非常适合本项目。
 
-<img width="1919" height="956" alt="image" src="https://github.com/user-attachments/assets/238dcd64-fb9d-4845-8f97-483424cc08d0" />
-
+<img width="1919" height="951" alt="image" src="https://github.com/user-attachments/assets/7d006b32-450b-49fe-bf21-2ddf4da6b921" />
 
 ### 3.再次部署Vercel
 进入 Vercel 项目面板的 Deployments → Create Deployment，重新部署一次以使数据库配置生效
